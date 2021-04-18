@@ -1,2 +1,7 @@
-# The-Bhabex-Foundation
-The Bhabex Foundation will gives you free open sources and big opportunity to earn money faster. Foundation's services will starts soon...
+# django-blockchain
+native Blockchain implementation using django and python
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
